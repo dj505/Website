@@ -1,5 +1,5 @@
 # Website
-Sam's Pi server source code.
+Pi server source code.
 This is the source code for my Apache web-server hosted on my raspberry pi, these files are all the files found in
 the /var/www directory.
 You can use these files if you have a linux server of some sort (like my raspberry pi) running Apache2.
